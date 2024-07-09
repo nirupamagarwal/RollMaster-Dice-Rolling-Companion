@@ -1,9 +1,9 @@
 # RollMaster-Dice-Rolling-Companion
 
-# Overview
+ # Overview
 "RollMaster" is a versatile dice rolling app developed using Flutter, designed to provide quick and precise dice rolls for tabletop games and role-playing enthusiasts. It offers a user-friendly interface with customizable settings to accommodate various gaming scenarios.
 
-# Key Features
+ # Key Features
 Cross-Platform Compatibility: Built with Flutter, ensuring seamless functionality across Android and iOS devices.
 
 Intuitive User Interface: Designed for easy navigation and quick access to dice types and settings.
